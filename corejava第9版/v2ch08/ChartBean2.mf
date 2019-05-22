@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+
+Name: chart2/ChartBean2.class
+Java-Bean: True
