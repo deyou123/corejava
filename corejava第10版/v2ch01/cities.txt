@@ -1,0 +1,729 @@
+New York, NY, 8336697
+Los Angeles, CA, 3857799
+Chicago, IL, 2714856
+Houston, TX, 2160821
+Philadelphia, PA, 1547607
+Phoenix, AZ, 1488750
+San Antonio, TX, 1382951
+San Diego, CA, 1338348
+Dallas, TX, 1241162
+San Jose, CA, 982765
+Austin, TX, 842592
+Jacksonville, FL, 836507
+Indianapolis, IN, 834852
+San Francisco, CA, 825863
+Columbus, OH, 809798
+Fort Worth, TX, 777992
+Charlotte, NC, 775202
+Detroit, MI, 701475
+El Paso, TX, 672538
+Memphis, TN, 655155
+Boston, MA, 636479
+Seattle, WA, 634535
+Denver, CO, 634265
+Washington, DC, 632323
+Nashville-Davidson, TN, 624496
+Baltimore, MD, 621342
+Louisville/Jefferson County, KY, 605110
+Portland, OR, 603106
+Oklahoma, OK, 599199
+Milwaukee, WI, 598916
+Las Vegas, NV, 596424
+Albuquerque, NM, 555417
+Tucson, AZ, 524295
+Fresno, CA, 505882
+Sacramento, CA, 475516
+Long Beach, CA, 467892
+Kansas, MO, 464310
+Mesa, AZ, 452084
+Virginia Beach, VA, 447021
+Atlanta, GA, 443775
+Colorado Springs, CO, 431834
+Raleigh, NC, 423179
+Omaha, NE, 421570
+Miami, FL, 413892
+Oakland, CA, 400740
+Tulsa, OK, 393987
+Minneapolis, MN, 392880
+Cleveland, OH, 390928
+Wichita, KS, 385577
+Arlington, TX, 375600
+New Orleans, LA, 369250
+Bakersfield, CA, 358597
+Tampa, FL, 347645
+Honolulu, HI, 345610
+Anaheim, CA, 343248
+Aurora, CO, 339030
+Santa Ana, CA, 330920
+St. Louis, MO, 318172
+Riverside, CA, 313673
+Corpus Christi, TX, 312195
+Pittsburgh, PA, 306211
+Lexington-Fayette, KY, 305489
+Anchorage, AK, 298610
+Stockton, CA, 297984
+Cincinnati, OH, 296550
+St. Paul, MN, 290770
+Toledo, OH, 284012
+Newark, NJ, 277727
+Greensboro, NC, 277080
+Plano, TX, 272068
+Henderson, NV, 265679
+Lincoln, NE, 265404
+Buffalo, NY, 259384
+Fort Wayne, IN, 254555
+Jersey, NJ, 254441
+Chula Vista, CA, 252422
+Orlando, FL, 249562
+St. Petersburg, FL, 246541
+Norfolk, VA, 245782
+Chandler, AZ, 245628
+Laredo, TX, 244731
+Madison, WI, 240323
+Durham, NC, 239358
+Lubbock, TX, 236065
+Winston-Salem, NC, 234349
+Garland, TX, 233564
+Glendale, AZ, 232143
+Hialeah, FL, 231941
+Reno, NV, 231027
+Baton Rouge, LA, 230058
+Irvine, CA, 229985
+Chesapeake, VA, 228417
+Irving, TX, 225427
+Scottsdale, AZ, 223514
+North Las Vegas, NV, 223491
+Fremont, CA, 221986
+Gilbert, AZ, 221140
+San Bernardino, CA, 213295
+Boise, ID, 212303
+Birmingham, AL, 212038
+Rochester, NY, 210532
+Richmond, VA, 210309
+Spokane, WA, 209525
+Des Moines, IA, 206688
+Montgomery, AL, 205293
+Modesto, CA, 203547
+Fayetteville, NC, 202103
+Tacoma, WA, 202010
+Shreveport, LA, 201867
+Fontana, CA, 201812
+Oxnard, CA, 201555
+Aurora, IL, 199932
+Moreno Valley, CA, 199552
+Akron, OH, 198549
+Yonkers, NY, 198449
+Columbus, GA, 198413
+Augusta-Richmond County, GA, 197872
+Little Rock, AR, 196537
+Amarillo, TX, 195250
+Mobile, AL, 194822
+Huntington Beach, CA, 194708
+Glendale, CA, 194478
+Grand Rapids, MI, 190411
+Salt Lake, UT, 189314
+Tallahassee, FL, 186971
+Huntsville, AL, 183739
+Worcester, MA, 182669
+Knoxville, TN, 182200
+Grand Prairie, TX, 181824
+Newport News, VA, 180726
+Brownsville, TX, 180097
+Santa Clarita, CA, 179013
+Overland Park, KS, 178919
+Providence, RI, 178432
+Jackson, MS, 175437
+Garden Grove, CA, 174389
+Oceanside, CA, 171293
+Chattanooga, TN, 171279
+Fort Lauderdale, FL, 170747
+Rancho Cucamonga, CA, 170746
+Santa Rosa, CA, 170685
+Port St. Lucie, FL, 168716
+Ontario, CA, 167211
+Tempe, AZ, 166842
+Vancouver, WA, 165489
+Springfield, MO, 162191
+Cape Coral, FL, 161248
+Pembroke Pines, FL, 160306
+Sioux Falls, SD, 159908
+Peoria, AZ, 159789
+Lancaster, CA, 159055
+Elk Grove, CA, 159038
+Corona, CA, 158391
+Eugene, OR, 157986
+Salem, OR, 157429
+Palmdale, CA, 155650
+Salinas, CA, 154484
+Springfield, MA, 153552
+Pasadena, TX, 152272
+Rockford, IL, 150843
+Pomona, CA, 150812
+Hayward, CA, 149392
+Fort Collins, CO, 148612
+Joliet, IL, 148268
+Escondido, CA, 147575
+Kansas, KS, 147268
+Torrance, CA, 147027
+Bridgeport, CT, 146425
+Alexandria, VA, 146294
+Sunnyvale, CA, 146197
+Cary, NC, 145693
+Lakewood, CO, 145516
+Hollywood, FL, 145236
+Paterson, NJ, 145219
+Syracuse, NY, 144170
+Naperville, IL, 143684
+McKinney, TX, 143223
+Mesquite, TX, 143195
+Clarksville, TN, 142519
+Savannah, GA, 142022
+Dayton, OH, 141359
+Orange, CA, 139419
+Fullerton, CA, 138574
+Pasadena, CA, 138547
+Hampton, VA, 136836
+McAllen, TX, 134719
+Killeen, TX, 134654
+Warren, MI, 134141
+West Valley, UT, 132434
+Columbia, SC, 131686
+New Haven, CT, 130741
+Sterling Heights, MI, 130410
+Olathe, KS, 130045
+Miramar, FL, 128729
+Thousand Oaks, CA, 128412
+Frisco, TX, 128176
+Cedar Rapids, IA, 128119
+Topeka, KS, 127939
+Visalia, CA, 127081
+Waco, TX, 127018
+Elizabeth, NJ, 126458
+Bellevue, WA, 126439
+Gainesville, FL, 126047
+Simi Valley, CA, 125793
+Charleston, SC, 125583
+Carrollton, TX, 125409
+Coral Springs, FL, 125287
+Stamford, CT, 125109
+Hartford, CT, 124893
+Concord, CA, 124711
+Roseville, CA, 124519
+Thornton, CO, 124140
+Kent, WA, 122999
+Lafayette, LA, 122761
+Surprise, AZ, 121287
+Denton, TX, 121123
+Victorville, CA, 120336
+Evansville, IN, 120235
+Midland, TX, 119385
+Santa Clara, CA, 119311
+Athens-Clarke County, GA, 118999
+Allentown, PA, 118974
+Abilene, TX, 118887
+Beaumont, TX, 118228
+Vallejo, CA, 117796
+Independence, MO, 117270
+Springfield, IL, 117126
+Ann Arbor, MI, 116121
+Provo, UT, 115919
+Peoria, IL, 115687
+Norman, OK, 115562
+Berkeley, CA, 115403
+El Monte, CA, 115111
+Murfreesboro, TN, 114038
+Lansing, MI, 113996
+Columbia, MO, 113225
+Downey, CA, 112873
+Costa Mesa, CA, 111918
+Inglewood, CA, 111182
+Miami Gardens, FL, 110754
+Manchester, NH, 110209
+Elgin, IL, 109927
+Wilmington, NC, 109922
+Waterbury, CT, 109915
+Fargo, ND, 109779
+Arvada, CO, 109745
+Carlsbad, CA, 109318
+Westminster, CO, 109169
+Rochester, MN, 108992
+Gresham, OR, 108956
+Clearwater, FL, 108732
+Lowell, MA, 108522
+West Jordan, UT, 108383
+Pueblo, CO, 107772
+San Buenaventura (Ventura), CA, 107734
+Fairfield, CA, 107684
+West Covina, CA, 107440
+Billings, MO, 106954
+Murrieta, CA, 106810
+High Point, NC, 106586
+Round Rock, TX, 106573
+Richmond, CA, 106516
+Cambridge, MA, 106471
+Norwalk, CA, 106278
+Odessa, TX, 106102
+Antioch, CA, 105508
+Temecula, CA, 105208
+Green Bay, WI, 104868
+Everett, WA, 104655
+Wichita Falls, TX, 104552
+Burbank, CA, 104391
+Palm Bay, FL, 104124
+Centennial, CO, 103743
+Daly, CA, 103690
+Richardson, TX, 103297
+Pompano Beach, FL, 102984
+Broken Arrow, OK, 102019
+North Charleston, SC, 101989
+West Palm Beach, FL, 101903
+Boulder, CO, 101808
+Rialto, CA, 101740
+Santa Maria, CA, 101459
+El Cajon, CA, 101435
+Davenport, IA, 101363
+Las Cruces, NM, 101047
+Erie, PA, 101047
+South Bend, IN, 100800
+Flint, MI, 100515
+Kenosha, WI, 100150
+Lakeland, FL, 99999
+San Mateo, CA, 99670
+Lewisville, TX, 99453
+Sandy Springs, GA, 99419
+Tyler, TX, 99323
+Clovis, CA, 98632
+Lawton, OK, 98376
+Albany, NY, 97904
+College Station, TX, 97801
+Compton, CA, 97559
+Roanoke, VA, 97469
+Jurupa Valley, CA, 97426
+Dearborn, MI, 96474
+Portsmouth, VA, 96470
+Pearland, TX, 96294
+Vista, CA, 96047
+San Angelo, TX, 95887
+Livonia, MI, 95586
+Davie, FL, 95489
+Renton, WA, 95448
+Yuma, AZ, 95429
+Greeley, CO, 95357
+Hillsboro, OR, 95327
+South Gate, CA, 95304
+Mission Viejo, CA, 95290
+New Bedford, MA, 94929
+Brockton, MA, 94094
+Vacaville, CA, 93899
+Roswell, GA, 93692
+Tuscaloosa, AL, 93357
+Yakima, WA, 93101
+Quincy, MA, 93027
+Carson, CA, 93002
+Beaverton, OR, 92680
+Lee's Summit, MO, 92468
+Sparks, NV, 92183
+Hesperia, CA, 92062
+Federal Way, WA, 91933
+Santa Monica, CA, 91812
+Westminster, CA, 91377
+Lynn, MA, 91253
+Macon, GA, 91234
+Rio Rancho, NM, 90818
+Redding, CA, 90755
+Orem, UT, 90749
+Spokane Valley, WA, 90641
+Miami Beach, FL, 90588
+Allen, TX, 89640
+Santa Barbara, CA, 89639
+Lawrence, KS, 89512
+Sandy, UT, 89344
+Fall River, MA, 88945
+Waukegan, IL, 88862
+Sunrise, FL, 88843
+Longmont, CO, 88669
+League, TX, 88188
+Reading, PA, 88102
+Plantation, FL, 88016
+Boca Raton, FL, 87836
+Chico, CA, 87714
+Fort Smith, AR, 87443
+Greenville, NC, 87242
+Norwalk, CT, 87190
+Newport Beach, CA, 87068
+Nashua, NH, 86933
+San Leandro, CA, 86890
+San Marcos, CA, 86752
+Newton, MA, 86307
+Duluth, MN, 86211
+Whittier, CA, 86177
+Bloomington, MN, 86033
+Asheville, NC, 85712
+Hawthorne, CA, 85681
+Deltona, FL, 85442
+Suffolk, VA, 85181
+Edmond, OK, 84885
+Citrus Heights, CA, 84870
+Clifton, NJ, 84722
+Tracy, CA, 84669
+Trenton, NJ, 84477
+Alhambra, CA, 84322
+Cicero, IL, 84137
+Nampa, ID, 83930
+Ogden, UT, 83793
+Carmel, IN, 83565
+Livermore, CA, 83547
+Hoover, AL, 83412
+Westland, MI, 82883
+Danbury, CT, 82807
+Sioux, IA, 82719
+Champaign, IL, 82517
+Sugar Land, TX, 82480
+Johns Creek, GA, 82306
+Bellingham, WA, 82234
+Troy, MI, 82212
+Buena Park, CA, 82155
+Concord, NC, 81981
+O'Fallon, MO, 81979
+Bloomington, IN, 81963
+Warwick, RI, 81873
+Fishers, IN, 81833
+Menifee, CA, 81474
+Longview, TX, 81092
+Hemet, CA, 81046
+Edinburg, TX, 81029
+Lakewood, CA, 80833
+Merced, CA, 80793
+Farmington Hills, MI, 80756
+Parma, OH, 80597
+Cranston, RI, 80529
+Mission, TX, 80452
+Meridian, ID, 80386
+Chino, CA, 80164
+Hammond, IN, 79686
+Indio, CA, 79302
+Gary, IN, 79170
+Bend, OR, 79109
+Redwood, CA, 79009
+Lake Forest, CA, 78853
+New Rochelle, NY, 78388
+Napa, CA, 78340
+Racine, WI, 78303
+Avondale, AZ, 78256
+Bryan, TX, 78061
+Tustin, CA, 78049
+Largo, FL, 77878
+Brooklyn Park, MN, 77752
+Bloomington, IL, 77733
+Deerfield Beach, FL, 77439
+Albany, GA, 77431
+Palm Coast, FL, 77374
+Bellflower, CA, 77356
+Lawrence, MA, 77326
+Camden, NJ, 77250
+St. Joseph, MO, 77176
+Lynchburg, VA, 77113
+Somerville, MA, 77104
+Melbourne, FL, 77048
+Fayetteville, AR, 76899
+Mountain View, CA, 76621
+Medford, OR, 76462
+Chino Hills, CA, 76457
+Baldwin Park, CA, 76419
+Kennewick, WA, 75971
+Scranton, PA, 75809
+Arlington Heights, IL, 75777
+Alameda, CA, 75641
+St. George, UT, 75561
+Evanston, IL, 75430
+Decatur, IL, 75407
+Upland, CA, 75209
+Bethlehem, PA, 75103
+Kalamazoo, MI, 75092
+Schaumburg, IL, 74781
+Bolingbrook, IL, 74039
+San Ramon, CA, 73927
+Auburn, WA, 73505
+Lake Charles, LA, 73474
+Folsom, CA, 73384
+Wyoming, MI, 73371
+Baytown, TX, 73238
+New Britain, CT, 73153
+Pharr, TX, 73138
+Springdale, AR, 73123
+Appleton, WI, 73016
+Plymouth, MN, 72928
+Gastonia, NC, 72723
+Canton, OH, 72683
+Southfield, MI, 72507
+Pleasanton, CA, 72338
+Rochester Hills, MI, 72283
+Mount Pleasant, SC, 71875
+Union, CA, 71763
+Perris, CA, 71326
+Wilmington, DE, 71292
+Pawtucket, RI, 71170
+Manteca, CA, 71067
+Waukesha, WI, 70920
+Warner Robins, GA, 70712
+Lynwood, CA, 70709
+Apple Valley, CA, 70700
+Loveland, CO, 70223
+Passaic, NJ, 70218
+Jonesboro, AR, 70187
+Iowa, IA, 70133
+Gulfport, MS, 70113
+Boynton Beach, FL, 70101
+Muncie, IN, 70087
+Redlands, CA, 69916
+Rapid, SD, 69854
+Turlock, CA, 69733
+Goodyear, AZ, 69648
+Jacksonville, NC, 69220
+Santa Fe, NM, 69204
+Temple, TX, 69148
+Palatine, IL, 69144
+Lauderhill, FL, 69100
+Missouri, TX, 69020
+Milpitas, CA, 68800
+Layton, UT, 68677
+Missoula, MO, 68394
+Waterloo, IA, 68297
+Rock Hill, SC, 68094
+Lafayette, IN, 67925
+Mount Vernon, NY, 67896
+Flower Mound, TX, 67825
+Union, NJ, 67744
+Redondo Beach, CA, 67693
+Weston, FL, 67641
+Flagstaff, AZ, 67468
+Dothan, AL, 67382
+Jackson, TN, 67265
+Rancho Cordova, CA, 66997
+Eau Claire, WI, 66966
+Kenner, LA, 66820
+Yorba Linda, CA, 66735
+Oshkosh, WI, 66653
+St. Charles, MO, 66463
+Frederick, MD, 66382
+Palo Alto, CA, 66363
+Franklin, TN, 66280
+Portland, ME, 66214
+Schenectady, NY, 66078
+Davis, CA, 65993
+St. Cloud, MN, 65986
+Camarillo, CA, 65968
+Fort Myers, FL, 65725
+Walnut Creek, CA, 65695
+Harlingen, TX, 65679
+Pittsburg, CA, 65664
+South San Francisco, CA, 65547
+Youngstown, OH, 65405
+Pasco, WA, 65398
+North Richland Hills, TX, 65290
+Yuba, CA, 65105
+Skokie, IL, 65074
+San Clemente, CA, 64882
+Eagan, MN, 64854
+Bismarck, ND, 64751
+Bossier, LA, 64655
+North Little Rock, AR, 64633
+Johnson, TN, 64528
+Woodbury, MN, 64496
+Laguna Niguel, CA, 64452
+Maple Grove, MN, 64420
+Bayonne, NJ, 64416
+Victoria, TX, 64376
+East Orange, NJ, 64268
+Lorain, OH, 63707
+Shawnee, KS, 63622
+Janesville, WI, 63588
+Pico Rivera, CA, 63522
+Kissimmee, FL, 63369
+Montebello, CA, 63305
+Lodi, CA, 63301
+Rockville, MD, 63244
+Homestead, FL, 63190
+Conway, AR, 62939
+Gaithersburg, MD, 62794
+Madera, CA, 62624
+Tamarac, FL, 62557
+Marysville, WA, 62402
+Delray Beach, FL, 62357
+Hamilton, OH, 62295
+Eden Prairie, MN, 62258
+Council Bluffs, IA, 62115
+Taylor, MI, 62114
+Santa Cruz, CA, 62041
+Daytona Beach, FL, 62035
+Alpharetta, GA, 61981
+Coon Rapids, MN, 61931
+Waltham, MA, 61918
+Utica, NY, 61822
+Haverhill, MA, 61797
+Cheyenne, WY, 61537
+Conroe, TX, 61533
+La Habra, CA, 61392
+Burnsville, MN, 61130
+Terre Haute, IN, 61112
+Encinitas, CA, 60994
+Monterey Park, CA, 60937
+Tulare, CA, 60933
+Vineland, NJ, 60854
+New Braunfels, TX, 60761
+West Allis, WI, 60732
+Greenville, SC, 60709
+Meriden, CT, 60638
+Ames, IA, 60634
+Bristol, CT, 60603
+Bowling Green, KY, 60600
+North Miami, FL, 60565
+Malden, MA, 60374
+Taylorsville, UT, 60227
+Pontiac, MI, 60175
+Springfield, OH, 60147
+Cupertino, CA, 60009
+Grand Junction, CO, 59899
+Springfield, OR, 59869
+St. Clair Shores, MI, 59749
+Gardena, CA, 59490
+Blaine, MN, 59412
+National, CA, 59387
+Lancaster, PA, 59360
+Mansfield, TX, 59317
+West Des Moines, IA, 59296
+Rocklin, CA, 59030
+Petaluma, CA, 58921
+Rogers, AR, 58895
+Great Falls, MO, 58893
+Lakewood, WA, 58852
+Des Plaines, IL, 58840
+Wellington, FL, 58679
+Huntington Park, CA, 58673
+San Rafael, CA, 58502
+Chapel Hill, NC, 58424
+Royal Oak, MI, 58410
+North Port, FL, 58378
+Marietta, GA, 58359
+Broomfield, CO, 58298
+La Mesa, CA, 58160
+Dubuque, IA, 58155
+Owensboro, KY, 58083
+Cedar Park, TX, 57957
+Idaho Falls, ID, 57899
+Casper, WY, 57813
+Moore, OK, 57810
+Rowlett, TX, 57703
+Valdosta, GA, 57597
+Arcadia, CA, 57497
+White Plains, NY, 57403
+Orland Park, IL, 57392
+Lakeville, MN, 57342
+Jupiter, FL, 57221
+Tinley Park, IL, 57144
+Rocky Mount, NC, 57136
+Medford, MA, 57033
+Oak Lawn, IL, 56995
+Ocala, FL, 56945
+Novi, MI, 56912
+Auburn, AL, 56908
+Kokomo, IN, 56866
+Dearborn Heights, MI, 56838
+Berwyn, IL, 56800
+Port Orange, FL, 56766
+Redmond, WA, 56561
+Fountain Valley, CA, 56464
+Diamond Bar, CA, 56363
+Woodland, CA, 56271
+New Brunswick, NJ, 56160
+Bowie, MD, 56129
+Midwest, OK, 56080
+Manhattan, KS, 56069
+Taunton, MA, 56055
+Decatur, AL, 55996
+Kettering, OH, 55990
+Bartlett, TN, 55945
+South Jordan, UT, 55934
+Anderson, IN, 55554
+Chicopee, MA, 55490
+West Haven, CT, 55404
+Santee, CA, 55343
+Lake Elsinore, CA, 55288
+Noblesville, IN, 55075
+Margate, FL, 55026
+Porterville, CA, 55023
+Coconut Creek, FL, 55001
+Corvallis, OR, 54998
+Weymouth, MA, 54906
+Hempstead, NY, 54883
+Carson, NV, 54838
+Pocatello, ID, 54777
+Paramount, CA, 54680
+Sanford, FL, 54651
+Eastvale, CA, 54635
+Buckeye, AZ, 54542
+Mount Prospect, IL, 54505
+Rosemead, CA, 54393
+Shoreline, WA, 54352
+Hanford, CA, 54324
+Highland, CA, 54154
+Elyria, OH, 54086
+St. Peters, MO, 54078
+Port Arthur, TX, 54010
+Normal, IL, 53837
+Brentwood, CA, 53673
+Wheaton, IL, 53469
+Grand Forks, ND, 53456
+Novato, CA, 53301
+Revere, MA, 53179
+Colton, CA, 53123
+Hendersonville, TN, 53080
+Blue Springs, MO, 53014
+Lake Havasu, AZ, 52819
+Sarasota, FL, 52811
+Euless, TX, 52780
+Cathedral, CA, 52655
+Greenwood, IN, 52652
+Smyrna, GA, 52650
+Bellevue, NE, 52604
+Delano, CA, 52426
+Pensacola, FL, 52340
+Hoffman Estates, IL, 52305
+Georgetown, TX, 52303
+Yucaipa, CA, 52265
+Florissant, MO, 52252
+Hoboken, NJ, 52034
+Oak Park, IL, 52015
+Battle Creek, MI, 51911
+Pflugerville, TX, 51894
+Watsonville, CA, 51881
+Peabody, MA, 51867
+Perth Amboy, NJ, 51744
+Placentia, CA, 51673
+La Crosse, WI, 51647
+Kingsport, TN, 51501
+Milford, CT, 51488
+West NY, NJ, 51464
+Richland, WA, 51440
+Lakewood, OH, 51385
+Castle Rock, CO, 51348
+Albany, OR, 51322
+Burlington, NC, 51306
+Lehi, UT, 51173
+Elkhart, IN, 51152
+Minnetonka, MN, 51123
+DeSoto, TX, 51102
+Charleston, WV, 51018
+Harrisonburg, VA, 50981
+Saginaw, MI, 50790
+Glendora, CA, 50719
+Kirkland, WA, 50697
+Bradenton, FL, 50672
+Gilroy, CA, 50660
+Southaven, MS, 50374
+Plainfield, NJ, 50244
+Palm Desert, CA, 50013
+San Marcos, TX, 50001
+Troy, NY, 49946
+Niagara Falls, NY, 49722
+Joplin, MO, 49526

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8080/calculator/" href="Calculator.jnlp">
+  <information>
+    <title>Calculator Demo Application</title>
+    <vendor>Cay S. Horstmann</vendor>
+    <description>Web Start Calculator</description>
+    <icon href="webstart/calc_icon32.png" width="32" height="32" />
+    <icon href="webstart/calc_icon64.png" width="64" height="64" />
+    <offline-allowed/>
+    <shortcut>
+      <desktop/>
+      <menu submenu="Accessories"/>
+    </shortcut>
+  </information>  
+  <resources>	
+    <java version="1.6.0+"/>
+    <jar href="Calculator.jar"/>
+  </resources>
+  <application-desc/>
+</jnlp> 

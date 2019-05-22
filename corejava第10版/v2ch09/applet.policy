@@ -1,0 +1,7 @@
+keystore "client.certs", "JKS";
+
+grant signedby "acmeroot"
+{
+   permission java.lang.RuntimePermission "usePolicy";
+   permission java.io.FilePermission "/etc/*", "read";
+};

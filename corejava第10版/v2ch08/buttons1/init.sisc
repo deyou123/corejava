@@ -1,0 +1,6 @@
+(import s2j) 
+(define-generic-java-method set-background) 
+(define-java-class <java.awt.color>) 
+(define-generic-java-field-accessor :yellow) 
+(define-generic-java-field-accessor :blue) 
+(define-generic-java-field-accessor :red)
