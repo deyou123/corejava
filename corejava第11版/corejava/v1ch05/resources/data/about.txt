@@ -1,5 +1,0 @@
-Core Java: Fundamentals
-11th Edition
-Cay Horstmann
-Copyright © 2018
-Prentice-Hall
