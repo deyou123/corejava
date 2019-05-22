@@ -1,0 +1,6 @@
+keystore "file:///home/mydir/certs.store", "JKS";
+
+grant signedby "acmeroot"
+{
+   permission java.io.FilePermission "<<ALL FILES>>", "read";
+};

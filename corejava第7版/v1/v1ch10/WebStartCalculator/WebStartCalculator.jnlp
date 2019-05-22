@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8080/calculator/" href="WebStartCalculator.jnlp">
+  <information>
+    <title>Calculator Demo Application</title>
+    <vendor>Cay S. Horstmann</vendor>
+    <description>Web Start Calculator</description>
+    <offline-allowed/>
+  </information>  
+  <resources>
+    <j2se version="1.5+"/>
+    <jar href="WebStartCalculator.jar"/>
+  </resources>
+  <application-desc/>
+</jnlp> 

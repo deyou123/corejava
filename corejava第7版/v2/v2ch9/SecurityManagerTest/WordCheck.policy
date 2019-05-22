@@ -1,0 +1,10 @@
+grant codeBase "file:WordCheck.jar"
+{   
+   permission java.security.AllPermission;
+};
+
+grant
+{
+   permission java.util.PropertyPermission "user.home", "read";
+   permission java.util.PropertyPermission "user.dir", "read";
+};

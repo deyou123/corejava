@@ -1,0 +1,51 @@
+# Define top-level entry
+dn: dc=mycompany,dc=com
+objectClass: dcObject
+objectClass: organization
+dc: mycompany
+o: Core Java Team
+
+# Define an entry to contain people
+# searches for users are based on this entry
+dn: ou=people,dc=mycompany,dc=com
+objectClass: organizationalUnit
+ou: people
+
+# Define a user entry for John Q. Public
+dn: uid=jqpublic,ou=people,dc=mycompany,dc=com
+objectClass: person
+objectClass: uidObject
+uid: jqpublic
+sn: Public
+cn: John Q. Public
+telephoneNumber: +1 408 555 0017
+userPassword: wombat
+
+# Define a user entry for Jane Doe
+dn: uid=jdoe,ou=people,dc=mycompany,dc=com
+objectClass: person
+objectClass: uidObject
+uid: jdoe
+sn: Doe
+cn: Jane Doe
+telephoneNumber: +1 408 555 0029
+userPassword: heffalump
+
+# Define an entry to contain LDAP groups
+# searches for roles are based on this entry
+dn: ou=groups,dc=mycompany,dc=com
+objectClass: organizationalUnit
+ou: groups
+
+# Define an entry for the "techstaff" group
+dn: cn=techstaff,ou=groups,dc=mycompany,dc=com
+objectClass: groupOfUniqueNames
+cn: techstaff
+uniqueMember: uid=jdoe,ou=people,dc=mycompany,dc=com
+
+# Define an entry for the "staff" group
+dn: cn=staff,ou=groups,dc=mycompany,dc=com
+objectClass: groupOfUniqueNames
+cn: staff
+uniqueMember: uid=jqpublic,ou=people,dc=mycompany,dc=com
+uniqueMember: uid=jdoe,ou=people,dc=mycompany,dc=com

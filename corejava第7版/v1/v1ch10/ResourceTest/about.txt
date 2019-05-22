@@ -1,0 +1,5 @@
+Core Java 2: Fundamentals
+7th Edition
+Cay Horstmann and Gary Cornell
+Copyright (C) 2004
+Sun Microsystems Press

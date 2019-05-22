@@ -1,0 +1,4 @@
+grant 
+{  
+   permission WordCheckPermission "sex,drugs,C++", "avoid";
+};
