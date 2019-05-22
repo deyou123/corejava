@@ -1,0 +1,45 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <xsd:element name="config">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="entry" minOccurs="0" maxOccurs="unbounded">
+               <xsd:complexType>
+                  <xsd:group ref="Object"/>
+                  <xsd:attribute name="id" type="xsd:ID"/>
+               </xsd:complexType>
+            </xsd:element>
+         </xsd:sequence>            
+      </xsd:complexType>
+   </xsd:element>
+
+   <xsd:element name="construct">
+      <xsd:complexType>
+         <xsd:group ref="Arguments"/>
+         <xsd:attribute name="class" type="xsd:string"/>
+      </xsd:complexType>
+   </xsd:element>
+
+   <xsd:element name="factory">
+      <xsd:complexType>
+         <xsd:group ref="Arguments"/>
+         <xsd:attribute name="class" type="xsd:string"/>
+         <xsd:attribute name="method" type="xsd:string" default="getInstance"/>
+      </xsd:complexType>
+   </xsd:element>
+
+   <xsd:group name="Object">
+      <xsd:choice>
+         <xsd:element ref="construct"/>
+         <xsd:element ref="factory"/>
+         <xsd:element name="string" type="xsd:string"/>
+         <xsd:element name="int" type="xsd:int"/>         
+         <xsd:element name="boolean" type="xsd:boolean"/>         
+      </xsd:choice>      
+   </xsd:group>
+   
+   <xsd:group name="Arguments">
+      <xsd:sequence>
+         <xsd:group ref="Object" minOccurs="0" maxOccurs="unbounded"/>
+      </xsd:sequence>
+   </xsd:group>
+</xsd:schema>
