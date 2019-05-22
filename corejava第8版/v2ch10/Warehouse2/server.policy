@@ -1,0 +1,5 @@
+grant 
+{  
+   permission java.net.SocketPermission 
+      "*:1024-65535", "connect";
+};

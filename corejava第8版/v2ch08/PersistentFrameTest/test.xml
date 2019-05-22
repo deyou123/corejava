@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_01" class="java.beans.XMLDecoder"> 
+ <object class="javax.swing.JFrame"> 
+  <void property="bounds"> 
+   <object class="java.awt.Rectangle"> 
+    <int>33</int> 
+    <int>0</int> 
+    <int>400</int> 
+    <int>200</int> 
+   </object> 
+  </void> 
+  <void property="contentPane"> 
+   <void method="add"> 
+    <object class="javax.swing.JButton"> 
+     <string>Load</string> 
+     <void method="addActionListener"> 
+      <object class="java.beans.EventHandler" method="create"> 
+       <class>java.awt.event.ActionListener</class> 
+       <object id="PersistentFrameTest0" class="PersistentFrameTest"/> 
+       <string>load</string> 
+      </object> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="javax.swing.JButton"> 
+     <string>Save</string> 
+     <void property="model"> 
+      <void property="rollover"> 
+       <boolean>true</boolean> 
+      </void> 
+     </void> 
+     <void method="addActionListener"> 
+      <object class="java.beans.EventHandler" method="create"> 
+       <class>java.awt.event.ActionListener</class> 
+       <object idref="PersistentFrameTest0"/> 
+       <string>save</string> 
+      </object> 
+     </void> 
+    </object> 
+   </void> 
+   <void property="layout"> 
+    <object class="java.awt.FlowLayout"/> 
+   </void> 
+  </void> 
+  <void property="defaultCloseOperation"> 
+   <int>3</int> 
+  </void> 
+  <void property="minimumSize"> 
+   <object class="java.awt.Dimension"> 
+    <int>143</int> 
+    <int>62</int> 
+   </object> 
+  </void> 
+  <void property="name"> 
+   <string>frame0</string> 
+  </void> 
+  <void property="title"> 
+   <string>PersistentFrameTest</string> 
+  </void> 
+  <void method="addWindowListener"> 
+   <object class="sun.awt.im.InputMethodContext"/> 
+  </void> 
+  <void property="visible"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

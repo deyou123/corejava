@@ -1,0 +1,5 @@
+Core Java: Fundamentals
+8th Edition
+Cay Horstmann and Gary Cornell
+Copyright (C) 2007
+Sun Microsystems Press
