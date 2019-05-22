@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane xmlns:fx="http://javafx.com/fxml" hgap="10" vgap="10"
+      fx:controller="fxml.FXMLDemo">
+   <padding>
+      <Insets top="10" right="10" bottom="10" left="10"/>
+   </padding>
+   <children>
+      <Label text="User name:" GridPane.columnIndex="0"
+            GridPane.rowIndex="0" GridPane.halignment="RIGHT"/>
+      <Label text="Password:" GridPane.columnIndex="0"
+            GridPane.rowIndex="1" GridPane.halignment="RIGHT"/>
+      <TextField fx:id="username" GridPane.columnIndex="1"
+            GridPane.rowIndex="0"/>
+      <PasswordField fx:id="password"
+            GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+      <HBox GridPane.columnIndex="0" GridPane.rowIndex="2"
+            GridPane.columnSpan="2" alignment="CENTER" spacing="10"> 
+         <children>
+            <Button fx:id="okButton" text="Ok"/>
+            <Button fx:id="cancelButton" text="Cancel"/>
+         </children>
+      </HBox>
+   </children>
+</GridPane>

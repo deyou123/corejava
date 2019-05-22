@@ -1,0 +1,11 @@
+Sat Sep 29 12:42:21 PDT 2012 : Apache Derby Serveur réseau - 10.8.2.2 - (1181258) démarré et prêt à accepter les connexions sur le port 1527
+----------------------------------------------------------------
+Sat Sep 29 12:42:30 PDT 2012:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258) : instance a816c00e-013a-138d-0c27-00003f9cbb5b 
+dans le répertoire de base de données /data/cay/books/cj9/code/v2ch04/COREJAVA  avec le chargeur de classe sun.misc.Launcher$AppClassLoader@b99e4c
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_07-b10
+user.dir=/data/cay/books/cj9/code/v2ch04
+derby.system.home=/data/cay/books/cj9/code/v2ch04
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
