@@ -1,0 +1,16 @@
+assume
+implement
+merely
+console
+framework
+pieces
+recur
+foremost
+sensitive
+capitalization
+modifier
+container
+logic
+defines
+blocks
+applets
