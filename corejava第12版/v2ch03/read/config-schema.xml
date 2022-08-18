@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="config.xsd">
+  <entry id="background">
+    <construct class="java.awt.Color">
+      <int>55</int>
+      <int>200</int>
+      <int>100</int>
+    </construct>
+  </entry>
+  <entry id="currency">
+    <factory class="java.util.Currency">
+      <string>USD</string>
+    </factory>
+  </entry>
+</config>

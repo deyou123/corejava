@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE config SYSTEM "config.dtd">
+<config>
+  <entry id="background">
+    <construct class="java.awt.Color">
+      <int>55</int>
+      <int>200</int>
+      <int>100</int>
+    </construct>
+  </entry>
+  <entry id="currency">
+    <factory class="java.util.Currency">
+      <string>USD</string>
+    </factory>
+  </entry>
+</config>
